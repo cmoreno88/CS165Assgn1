@@ -1,2 +1,3 @@
 # CS165Assgn1
-breaks verngam inspired cipher text
+Python 3.6
+Breaks verngam inspired cipher text
